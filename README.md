@@ -2,7 +2,7 @@
 
 ## Preview 👀 https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Chat-App-CSS-illustration/
 
-## Solution Link https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Chat-App-CSS-illustration/
+## Solution Link [https://ahmedshawkeey.github.io/Frontend-Mentor-Challenge-Chat-App-CSS-illustration/](https://www.frontendmentor.io/solutions/iplemented-without-any-difficulty-ZeCKhYWpkC)
 
 ![Design preview for the Chat app CSS illustration coding challenge](./design/desktop-preview.jpg)
 
